@@ -1,0 +1,2 @@
+model_checkpoint_path: "image_captioning_f8k"
+all_model_checkpoint_paths: "image_captioning_f8k"
